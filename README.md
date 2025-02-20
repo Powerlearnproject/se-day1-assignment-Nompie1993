@@ -66,13 +66,20 @@ Acceptance tests are formal tests that verify if a system satisfies business req
 #Part 2: Introduction to AI and Prompt Engineering
 
 
+Define prompt engineering and discuss its importance in interacting with AI models
 
-
-
-
-
-
-Define prompt engineering and discuss its importance in interacting with AI models.
-
+#
+Prompt engineering is the process where you guide generative artificial intelligence (generative AI) solutions to generate desired outputs.
+Prompt engineers play a crucial role in reducing biases in AI outputs, which can arise from the training data or the phrasing of the prompts themselves. Strategies include: Neutral prompt design: Avoid leading questions or prompts that might predispose the model to generate biased responses.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+#  vague prompt
+How do companies grow?
+
+# specific
+What strategies do tech startups use in their first year to increase customer base?"
+
+Being precise in your prompts ensures that the responses you receive are directly relevant to what you need. 
+
+Specific prompts eliminate ambiguity and help the respondent understand exactly what you're looking for*
+
